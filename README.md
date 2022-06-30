@@ -4,7 +4,7 @@
 
 # 历届世界杯主题曲
 
-===========================================================================
+------------------------------------------------------------------------------------------------------------------------------------
 
 世界杯主题曲+部分推广曲（1960-2022）
 
@@ -13,6 +13,8 @@
 压箱底的世界杯音乐终于可以翻出来了
 
 ©FIFA All Rights Reserved!
+
+---
 
 ## 1962年智利世界杯（7th）
 
@@ -127,4 +129,9 @@
 |  32  |     Song of World Cup     | [Hayya Hayya](https://github.com/simonecho/Songs-of-World-Cup/blob/main/Songs%20of%20World%20Cup/2022-Song%20of%20World%20Cup-Hayya%20Hayya.mp3) | 好呀 好呀 |
 |  33  | Promoto Song of World Cup | [Time Of Our Lives](https://github.com/simonecho/Songs-of-World-Cup/blob/main/Songs%20of%20World%20Cup/2022-Promoto%20Song%20of%20World%20Cup-Time%20Of%20Our%20Lives.mp3) | 巅峰时刻  |
 
+---
+
+©FIFA All Rights Reserved!
+
 ===========================================================================
+
