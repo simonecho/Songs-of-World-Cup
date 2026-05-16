@@ -132,7 +132,7 @@
 ## 2022年美加墨世界杯（23rd）
 | 序号 |           曲别            |                           外文名称                           | 中文名称  |
 | :--: | :-----------------------: | :----------------------------------------------------------: | :-------: |
-|  34  |     Dai Dai     | [Hayya Hayya](https://github.com/simonecho/Songs-of-World-Cup/blob/main/Songs%20of%20World%20Cup/2026-Song%20of%20World%20Cup-Dai%20Dai.mp3) | 加油 加油 |
+|  34  |     Dai Dai     | [Dai Dai](https://github.com/simonecho/Songs-of-World-Cup/blob/main/Songs%20of%20World%20Cup/2026-Song%20of%20World%20Cup-Dai%20Dai.mp3) | 加油 加油 |
 ---
 
 ©FIFA All Rights Reserved!
